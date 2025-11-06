@@ -1,4 +1,4 @@
-# Electron-BitNet
+# Electron-BitNet .
 
 Running [Microsoft's BitNet](https://github.com/microsoft/BitNet) via [Astro](https://astro.build/), [React](https://react.dev/) & [Electron](https://www.electronjs.org/)!
 
